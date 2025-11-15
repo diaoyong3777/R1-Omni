@@ -115,11 +115,23 @@ python inference.py --modal video_audio \
   --instruct "As an emotional recognition expert; throughout the video, which emotion conveyed by the characters is the most obvious to you? Output the thinking process in <think> </think> and final emotion in <answer> </answer> tags."
 ```
 
+https://github.com/user-attachments/assets/8c73cbe6-5f24-49a9-bef9-bff6c50e4580
 ### 预期输出格式
 ```
 <think>In the video, a man in a brown jacket stands in front of a vibrant mural. He is wearing a pink shirt underneath his brown jacket, and his hair is dark and curly. His facial expression is complex, with wide eyes, slightly open mouth, raised eyebrows, and furrowed brows, revealing surprise and anger. His body language suggests he is facing an urgent situation, possibly communicating with others or confronting an authority figure. Overall, this man displays a strong emotional reaction, primarily anger, triggered by some unexpected event.</think>
 <answer>angry</answer>
 【在视频中，一名穿着棕色夹克的男子站在鲜艳的壁画前。他的面部表情复杂，睁大的眼睛、微张的嘴巴、扬起的眉毛和皱起的眉头，显示出惊讶和愤怒。他的身体语言表明他正面对紧急情况。在音频中，语调高亢且情绪化，语速很快。总体来看，该男子表现出强烈的情绪反应，主要是愤怒。】
+
+```
+
+
+[https://github.com/user-attachments/assets/8c73cbe6-5f24-49a9-bef9-bff6c50e4580](https://github.com/diaoyong3777/R1-Omni/hahaha.mp4)
+### 预期输出格式
+```
+<think>The video is set in a minimalist room with white walls and a blackboard filled with diagrams and notes, creating an atmosphere of concentration or classroom learning. Two male characters are dressed in uniform blue uniforms; the man on the left exhibits exaggerated facial expressions, laughing heartily and waving his arms, displaying extreme joy and excitement. In contrast, the man on the right maintains a more reserved demeanor, occasionally showing confusion or curiosity through his gestures, yet he never breaks from the formality of his speech.</think>
+<answer>happy</answer>
+【<think>视频背景设定在一间极简风格的房间内，墙壁洁白，黑板布满图表和笔记，营造出一种专注或课堂学习的氛围。两名男性角色身着蓝色制服；左侧男子面部表情夸张，开怀大笑并挥舞着双臂，展现出极度的喜悦和兴奋。相比之下，右侧男子则保持着更为内敛的姿态，偶尔通过手势流露出困惑或好奇，但他的言辞始终保持着正式。</think>
+<答案>开心</答案>】
 
 ```
 
