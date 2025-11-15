@@ -47,10 +47,25 @@ pip install -r pip_requirement.txt
 ```
 
 ## 📥 模型下载
+模型huggingface地址
+Whisper音频模型: https://huggingface.co/openai/whisper-large-v3
 
-使用以下命令下载所需模型（请替换为你的本地路径）：
+BERT文本模型: https://huggingface.co/google-bert/bert-base-uncased
+
+SigLIP视觉模型: https://huggingface.co/google/siglip-base-patch16-224
+
+R1-Omni主模型: https://huggingface.co/StarJiaxing/R1-Omni-0.5B/tree/main
+
+推荐使用以下命令下载所需模型（请替换为你的本地路径）：
 
 ```bash
+# 先建好python或conda环境
+pip install -U huggingface_hub # 安装依赖
+# Linux
+export HF_ENDPOINT=https://hf-mirror.com
+#windows
+$env:HF_ENDPOINT = "https://hf-mirror.com"
+
 # 下载所有必要模型
 huggingface-cli download --resume-download openai/whisper-large-v3 --local-dir /hy-tmp/openai/whisper-large-v3 --local-dir-use-symlinks False
 huggingface-cli download --resume-download StarJiaxing/R1-Omni-0.5B --local-dir /hy-tmp/StarJiaxing/R1-Omni-0.5B --local-dir-use-symlinks False
