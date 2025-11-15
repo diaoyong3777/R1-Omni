@@ -48,6 +48,7 @@ pip install -r pip_requirement.txt
 
 ## 📥 模型下载
 模型huggingface地址
+
 Whisper音频模型: https://huggingface.co/openai/whisper-large-v3
 
 BERT文本模型: https://huggingface.co/google-bert/bert-base-uncased
@@ -163,7 +164,7 @@ https://github.com/user-attachments/assets/30a51132-a25c-4d8a-ab00-799e0b98a3a2
 ```
 
 ## 🙏 致谢
-- 基于 [HumanOmni](https://github.com/HumanMLLM/HumanOmni) 构建
+- 基于R1-Omni构建
 
 
 ---
