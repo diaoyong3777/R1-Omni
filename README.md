@@ -123,10 +123,9 @@ https://github.com/user-attachments/assets/8c73cbe6-5f24-49a9-bef9-bff6c50e4580
 【在视频中，一名穿着棕色夹克的男子站在鲜艳的壁画前。他的面部表情复杂，睁大的眼睛、微张的嘴巴、扬起的眉毛和皱起的眉头，显示出惊讶和愤怒。他的身体语言表明他正面对紧急情况。在音频中，语调高亢且情绪化，语速很快。总体来看，该男子表现出强烈的情绪反应，主要是愤怒。】
 
 ```
-[<video width="600" controls>
-  <source src="hahaha.mp4" type="video/mp4">
-</video>
-](https://github.com/user-attachments/assets/2bf55514-606d-43dd-9e4d-63eb151fb987)
+
+https://github.com/user-attachments/assets/30a51132-a25c-4d8a-ab00-799e0b98a3a2
+
 ### 预期输出格式
 ```
 <think>The video is set in a minimalist room with white walls and a blackboard filled with diagrams and notes, creating an atmosphere of concentration or classroom learning. Two male characters are dressed in uniform blue uniforms; the man on the left exhibits exaggerated facial expressions, laughing heartily and waving his arms, displaying extreme joy and excitement. In contrast, the man on the right maintains a more reserved demeanor, occasionally showing confusion or curiosity through his gestures, yet he never breaks from the formality of his speech.</think>
